@@ -6,7 +6,7 @@
 
 ### What to read
 
-- Read the OWASP Description for [A7](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)) (10 min.)
+- Read the OWASP Description for [A7](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A7-Cross-Site_Scripting_(XSS)) (10 min.)
 - Read/skim the OWASP [XSS Prevention Cheat Sheet (15 min.)](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 - Read/skim the article the [Cheat Sheet related to session management (15 min.)](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
 - [HTML Sanitization (6 min.)](https://en.wikipedia.org/wiki/HTML_sanitization)
