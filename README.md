@@ -21,4 +21,10 @@
 ## Exercises
 [A7, Cross Site Scripting](https://docs.google.com/document/d/1EHVnI0sh9UCHdUpszFTtG_oxtYlOpGImYUimI5CotYY/edit?usp=sharing)
 
+## Handin link for this weeks Exam Preparation
+[handin](https://docs.google.com/spreadsheets/d/1lfuPbM3ikmntyf_u6Z2nsY7i7CUdPEzQAp3mqFvRzP8/edit?usp=sharing)
+
+## Video af Dagens lektion (tak til Simon)
+[Dagens undervisning om XSS](https://youtu.be/s5kXJrg5KPg)
+
 
