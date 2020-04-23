@@ -2,7 +2,7 @@
 *Much of the day will be focused aroung a Live Hacker Content. Prepare yourself by watching the video given below. I will set up a simple “hackable” Session based Server. The first one to succeed in stealing a SessionID, and another user's secret information, and explain for the class “the steps involved” wins a nice juice shirt :-)*
 
 ### Snippet-file for today
-[TBD](https://docs.google.com/document/d/1sGegv6K4DeDuTAmXMhepzAaeDfDjIqWNIpj-jLL-kcI/edit?usp=sharing)
+[snippet](https://docs.google.com/document/d/1sGegv6K4DeDuTAmXMhepzAaeDfDjIqWNIpj-jLL-kcI/edit?usp=sharing)
 
 ### What to read
 
@@ -16,7 +16,7 @@
 
 ### Slides
 
-[XSS (TBD)](#)
+[XSS](https://docs.google.com/presentation/d/1MiQTLK_qZlVdhVRYfwqGM7LSFQ8dqO5IJFGGzKXVEcY/edit?usp=sharing)
 
 ## Exercises
 [A7, Cross Site Scripting](https://docs.google.com/document/d/1EHVnI0sh9UCHdUpszFTtG_oxtYlOpGImYUimI5CotYY/edit?usp=sharing)
